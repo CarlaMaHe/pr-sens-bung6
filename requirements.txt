@@ -1,6 +1,10 @@
 altair
 numpy
 pandas
-matplotlib
 pydeck
 streamlit
+httpimport
+os
+bokeh == 2.4.3
+openpyx
+plotly
